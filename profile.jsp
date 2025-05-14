@@ -6,8 +6,8 @@
 <%
     // Database connection parameters
     String jdbcURL = "jdbc:oracle:thin:@localhost:1521:xe";
-    String dbUser = "System"; 
-    String dbPassword = "Sri2004"; 
+    String dbUser = "your_db_username"; 
+    String dbPassword = "your_db_password"; 
 
     HttpSession userSession = request.getSession(false); // Don't create a new session if none exists
     String fullName = "- not added -";
