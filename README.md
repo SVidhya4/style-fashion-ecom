@@ -1,6 +1,9 @@
 # 👗 STYLE – Fashion E-Commerce Platform
 
-STYLE is a dynamic fashion e-commerce web application built using Java (Servlets & JSP), HTML5, CSS, and Oracle Database, deployed on Apache Tomcat. It provides core online shopping features like user authentication, product browsing, cart management, and order processing – all in a clean and responsive UI.
+STYLE is a dynamic fashion e-commerce web application built using Java (Servlets & JSP), HTML5, CSS, and Oracle Database, deployed on Apache Tomcat. It provides core online shopping features like user authentication, product browsing and cart management all in a clean and responsive UI.
+
+![image](https://github.com/user-attachments/assets/7dbb3b94-7569-4250-b6a9-5cf495757e6d)
+![image](https://github.com/user-attachments/assets/14045062-f14a-4813-a4e0-8ec3d9919fe1)
 
 ---
 
