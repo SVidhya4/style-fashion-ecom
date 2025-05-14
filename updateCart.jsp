@@ -3,8 +3,8 @@
 
 <%
     String jdbcUrl = "jdbc:oracle:thin:@localhost:1521:xe";
-    String dbUser = "System";
-    String dbPassword = "Sri2004";
+    String dbUser = "your_db_username";
+    String dbPassword = "your_db_password";
 
     Connection conn = null;
     PreparedStatement pstmt = null;
